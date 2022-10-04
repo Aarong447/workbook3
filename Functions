@@ -1,0 +1,17 @@
+function favioriteThings(){
+ console.log("Aaron")
+ console.log("John Constatine- Keanu reeves");
+ console.log("Bob marley");
+}
+
+function whyamIhere(){
+    console.log("want a remote job");
+}
+
+function favioriteplace(){
+    console.log("My Favortie place to visit is seattle washington");
+}
+
+favioriteThings();
+whyamIhere();
+favioriteplace();
