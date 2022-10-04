@@ -1,7 +1,7 @@
-// MAR 28TH 1998 is time 0 
+// MAR 28th 1998 is time 0
 
 //ENTER YOUR BIRTH DAY AND TIME
-let ms_born = new Date("3/28/1998 4:15am"); //born time
+let ms_born = new Date("3/28/1998 4:15 am"); //born time
 let ms_current = new Date(); //current time 
 
 console.log("BORN: " + ms_born.toLocaleString()) //.toLocaleString() ->human readable
